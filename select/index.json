@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "TORIHADA",
+  "base_artist": "yama",
+  "createdAt": "2026-01-13T19:03:03.436902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TORIHADA",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_TORIHADA_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TORIHADA",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_TORIHADA_yama.txt"
+    }
+  ]
+}
